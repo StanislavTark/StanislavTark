@@ -16,13 +16,10 @@
 <br/>  
 
 * 🌍 Я нахожусь в Москве
-* 🖥️ Посмотреть мое портфолио на [GitHub (Веб-сайт)](http://github.com/StanislavTark/Portfolio)
-* ✉️ Вы можете связаться со мной по адресу [tarkovst@gmail.com](mailto:tarkovst@gmail.com)
+* 🖥️ Посмотреть мое портфолио на [GitHub](http://github.com/StanislavTark/Portfolio)
+* ✉️ Вы можете связаться со мной по  [![Telegram Badge](https://img.shields.io/badge/-stastark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tarkovst@gmail.com)
 
 ### Социальные сети <p align="left"> <a href="https://www.github.com/StanislavTark" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a></p>
-<a href="https://t.me/stastark" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
 
 ## Languages and Tools  
 <div align="center">  
