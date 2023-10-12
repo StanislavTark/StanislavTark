@@ -1,13 +1,4 @@
 ## Привет от Junior Аналитика данных 📊👋  
-  
-
-<a href="https://github.com/StanislavTark" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
-<a href="https://t.me/stastark" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  
 
 Привет! Меня зовут Станислав, и я junior аналитик данных. Сейчас я активно изучаю мир данных в рамках программы курса на [Яндекс.Практикум](https://practicum.yandex.ru/). За время обучения я освоил несколько мощных инструментов:
 
@@ -24,6 +15,14 @@
 
 <br/>  
 
+* 🌍 Я нахожусь в Москве
+🖥️ * Посмотреть мое портфолио на [GitHub (Веб-сайт)](http://github.com/StanislavTark/Portfolio)
+✉️ * Вы можете связаться со мной по адресу [tarkovst@gmail.com](mailto:tarkovst@gmail.com)
+
+### Социальные сети <p align="left"> <a href="https://www.github.com/StanislavTark" target="_blank" rel="noreferrer"> <Рисунок> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </картинка> </a></p>
+<a href="https://t.me/stastark" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
 
 ## Languages and Tools  
 <div align="center">  
