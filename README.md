@@ -16,7 +16,7 @@
 <br/>  
 
 * 🌍 Я нахожусь в Москве
-* 🖥️ Посмотреть мое портфолио можно на <a href="https://github.com/StanislavTark/Portfolio" target="_blank">
+* 🖥️ Посмотреть мое портфолио можно на [GitHub](http://github.com/StanislavTark/Portfolio)
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 * ✉️ Вы можете связаться со мной по  [![Telegram Badge](https://img.shields.io/badge/-stastark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tarkovst@gmail.com)
