@@ -1,4 +1,7 @@
 ## Привет от Junior Аналитика данных 📊👋  
+<a href="https://github.com/StanislavTark" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
 
 Меня зовут Станислав, и я junior аналитик данных. Сейчас я активно изучаю мир данных в рамках программы курса на [Яндекс.Практикум](https://practicum.yandex.ru/). За время обучения я освоил несколько мощных инструментов:
 
@@ -17,8 +20,6 @@
 
 * 🌍 Я нахожусь в Москве
 * 🖥️ Посмотреть мое портфолио можно на [GitHub](http://github.com/StanislavTark/Portfolio)
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 * ✉️ Вы можете связаться со мной по  [![Telegram Badge](https://img.shields.io/badge/-stastark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tarkovst@gmail.com)
 
 ## Languages and Tools  
