@@ -19,8 +19,8 @@
 <br/>  
 
 * 🌍 Я нахожусь в Москве
-* 🖥️ Посмотреть мое портфолио можно на [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/http://github.com/StanislavTark/Portfolio)
-* ✉️ Вы можете связаться со мной по  [![Telegram Badge](https://img.shields.io/badge/-stastark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tarkovst@gmail.com)
+* 🖥️ Посмотреть мое портфолио можно на [GitHub](http://github.com/StanislavTark/Portfolio)
+* ✉️ Вы можете связаться со мной по  [![Telegram Badge](https://img.shields.io/badge/-stastark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stastark) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tarkovst@gmail.com)
 
 ## Languages and Tools  
 <div align="center">  
