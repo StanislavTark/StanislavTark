@@ -5,8 +5,8 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
 <a href="https://t.me/stastark" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" style="width: 24px; height: 24px;" />
-</a>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
   
 
 Привет! Меня зовут Станислав, и я junior аналитик данных. Сейчас я активно изучаю мир данных в рамках программы курса на [Яндекс.Практикум](https://practicum.yandex.ru/). За время обучения я освоил несколько мощных инструментов:
