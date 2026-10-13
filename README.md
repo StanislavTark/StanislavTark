@@ -50,6 +50,9 @@
 ## 📂 Репозитории
 
 <!-- REPOS:START -->
+| Репозиторий | Описание | Язык | Обновлён |
+| --- | --- | --- | --- |
+| [yandex_practicum](https://github.com/StanislavTark/yandex_practicum) | — | Jupyter Notebook | 2026-10-13 |
 <!-- REPOS:END -->
 
 <sub>Блок обновляется автоматически раз в неделю (GitHub Actions).</sub>
