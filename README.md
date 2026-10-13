@@ -1,7 +1,8 @@
 ## Привет! Я Станислав 👋
 
-**BI-разработчик и аналитик данных.** Проектирую и развиваю дашборды в Insight BI: от модели данных и расчёта показателей до визуализации и навигации между отчётами.
+**Аналитик данных.** Работаю с данными от выгрузки и подготовки до выводов: SQL-запросы, исследовательский анализ и статистика на Python, A/B-тесты, продуктовые метрики, аналитические справки и дашборды.
 
+- 📊 Строю BI-дашборды в Insight BI: модель данных, расчёт показателей, визуализация и навигация между отчётами
 - 🎓 Базовая подготовка: курс аналитика данных в Яндекс Практикуме — [11 проектов](https://github.com/StanislavTark/yandex_practicum)
 - 🌍 Москва
 - ✉️ Связаться: [![Telegram](https://img.shields.io/badge/-stastark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stastark) [![Gmail](https://img.shields.io/badge/-tarkovst@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:tarkovst@gmail.com)
